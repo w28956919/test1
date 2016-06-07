@@ -1,0 +1,62 @@
+/*
+BASE
+*/
+
+body{
+    /*100%*/
+    font-size:16px;
+    font-family:araial,sans-serif;
+    line-height: 150%;/* 以%寫*/
+}
+a{
+    color:#e40000;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+/*LAYOUT*/
+
+.container{
+    width:1024px;
+    margin: 0 auto;    
+}
+
+.bg-light{
+    background: #404549;
+}
+
+.bg-light a{
+    color: lightgray;
+}
+
+bg-dark{
+    background: #2a2e31;
+}
+
+bg-dark a{
+    color:rgb(180,180,180);
+}
+
+/*
+  Moudle
+*/
+
+.img-caseshow {
+	
+}
+
+.thumb-big {
+	float: left;
+}
+
+.thumb-square {
+	float: left;
+}
+
+
+
+
+

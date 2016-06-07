@@ -1,0 +1,15 @@
+ cd /Users/Macowner/Documents/html/ntu
+
+git init
+
+git add .
+
+git status
+
+git remote add origin https://github.com/w28956919/test1.git
+git commit -m “1234”
+
+git push origin master
+
+
+

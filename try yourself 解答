@@ -1,0 +1,19 @@
+h1{
+  color:red;
+}
+
+ .entry p:first-child  {
+  background: green
+}
+
+.more{
+  background:blue
+}
+
+.more a {
+  color: white;
+}
+
+.more a:hover {
+  color: black;
+}

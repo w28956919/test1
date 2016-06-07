@@ -1,0 +1,44 @@
+.sidebar {
+  background:#fff;
+  width:260px;
+  padding:20px;
+}
+
+.sidebar-title{
+  text-align:center;
+  color: green;
+}
+.sidebar-title span{
+  background:#fff;
+    position:relative;
+  top:-13px;
+  padding: 0 10px;
+}
+
+.side-box{
+  border-bottom:1px solid #000;
+  margin-bottom:15px;
+  overflow:hidden;
+}
+
+.side-box-img{
+  width:60px;
+  float: left;
+}
+.side-box-content{
+  margin-left: 10px;
+  width: 190px;
+  float: left;
+}
+
+.side-box-content.title a{
+  text-decoration:none;
+  color:grey;
+}
+.side-box-content.title a:hover{
+  color: red;
+}
+
+/*.side-box{
+  overflow:hidden;
+}*/
